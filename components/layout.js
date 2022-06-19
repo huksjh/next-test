@@ -3,12 +3,12 @@ import Footer from "./footer";
 export default function Layout({ children }) {
     return (
         <>
-            {/* 헤더 */}
+            {/* 헤더부분 */}
             <Header />
 
             <div>{children}</div>
 
-            {/* 푸터 */}
+            {/* 푸터부분 */}
             <Footer />
         </>
     );
