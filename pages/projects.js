@@ -1,5 +1,4 @@
 import Layout from "../components/layout";
-import { Client } from "@notionhq/client";
 
 import { NOTION_DATABASE_ID, NOTION_DATABASE_SCREET } from "../config";
 
